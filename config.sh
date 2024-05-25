@@ -1,0 +1,5 @@
+remote_host=""
+remote_user=""
+remote_ssh_key="~/.ssh/id_rsa"
+remote_password=""
+sshd_config="/etc/ssh/sshd_config"
